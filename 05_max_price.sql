@@ -1,0 +1,1 @@
+SELECT max(UnitPrice) FROM northwind.products;
